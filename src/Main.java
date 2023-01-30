@@ -50,7 +50,7 @@ public class Main {
         System.out.println(" ");
         System.out.println("exercitiul 7");
         logicalOP.printparameterpositionList(myIntList);
-        //ex 8
+        //ex  8
         System.out.println(" ");
         System.out.println("exercitiul 8");
         System.out.println(logicalOP.getLargestNumber(myIntList));
